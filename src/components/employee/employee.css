@@ -1,0 +1,25 @@
+.employee {
+	display: flex;
+	margin: 10px 5px 10px 0px;
+	background-color: rgb(240, 240, 240);
+	padding: 20px 20px;
+	border-radius: 20px;
+}
+
+.image img {
+	border-radius: 50%;
+	width: 120%;
+}
+
+.employee-list {
+	margin-left: 30px;
+}
+
+.name {
+	width: 600px;
+}
+
+.space {
+	width: 300px;
+	font-weight: 400;
+}
